@@ -8,7 +8,7 @@
 // ==/UserScript==
 
 // === START CONFIGURATION ===
-let ENABLE_DEBUG = false; // Print debug messages
+let ENABLE_DEBUG = true; // Print debug messages
 
 // 
 let DELAY_BETWEEN_ANSWERS_MIN = 500; // the minimum delay between each answer in milliseconds
