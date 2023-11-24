@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Jetpunk cheat
-// @description Jetpunk cheat
+// @name        Jetpunk Tools
+// @description Jetpunk Tools
 // @namespace   Violentmonkey Scripts
 // @match       https://www.jetpunk.com/*
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=jetpunk.com
